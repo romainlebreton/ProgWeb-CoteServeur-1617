@@ -22,7 +22,7 @@ en organisant son code avec l'architecture MVC
 **Cours et TP en ligne :**
 
 * site Web : 
-  [http://romainlebreton.github.io/ProgWeb-CoteServeur](http://romainlebreton.github.io/ProgWeb-CoteServeur)
+  [http://romainlebreton.github.io/ProgWeb-CoteServeur-1617](http://romainlebreton.github.io/ProgWeb-CoteServeur-1617)
 
 **Évaluation :**
 
@@ -610,7 +610,7 @@ Une *URL* (Uniform Resource Locator) sert à représenter une adresse sur le Web
 * Une URL simple :
 
   <p style="text-align:center">
-  <a href="http://romainlebreton.github.io/ProgWeb-CoteServeur/classes/class1.html#comment-faire-">
+  <a href="http://romainlebreton.github.io/ProgWeb-CoteServeur-1617/classes/class1.html#comment-faire-">
   <img alt="Exemple d'URL" src="{{site.baseurl}}/assets/URLSimple.png" width="900px">
   </a>
   </p>

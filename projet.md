@@ -59,7 +59,7 @@ pour vos produits.  S'agit-il d'une association "un vers plusieurs" ou
 2. Créer les 2-3 tables correspondantes en SQL. Si votre schéma de Base de
 Données contient des clés étrangères (ce qui est probable), pensez à utiliser le
 format de stockage InnoDB. Se reporter au
-[TD 3](http://romainlebreton.github.io/ProgWeb-CoteServeur/tutorials/tutorial3.html)
+[TD 3](http://romainlebreton.github.io/ProgWeb-CoteServeur-1617/tutorials/tutorial3.html)
 pour plus de détails.
 
 3. Cette première séance est consacrée à implémenter le Modèle, le Contrôleur et
